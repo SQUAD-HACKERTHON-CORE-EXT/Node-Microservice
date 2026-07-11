@@ -30,6 +30,8 @@ const config = {
     WEBHOOK_SECRET:process.env.WEBHOOK_SECRET,
     GROQ_API_KEY:process.env.GROQ_API_KEY,
     JWT_SECRET:process.env.JWT_SECRET,
+    GMAIL_USER:process.env.GMAIL_USER,
+    GMAIL_APP_PASSWORD:process.env.GMAIL_APP_PASSWORD,    
 
 
 
